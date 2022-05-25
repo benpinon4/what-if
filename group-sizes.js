@@ -11,3 +11,5 @@ if ((classSize % 3) === 0) {
     console.log("Groups of 3: " + ((classSize - 2)/3))
     console.log("Groups of 2: " + (classSize/classSize))
 } 
+
+//17 5 of 3 1 of 2
